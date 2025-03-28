@@ -3,7 +3,6 @@
 
 
 # VorBot-NinjaTrader
----
 
 ## 📌 About Billionaire Mind Strategies, LLC  
 **Billionaire Mind Strategies, LLC** is a technology-driven firm specializing in **automated trading systems, AI-driven strategies, and custom indicators**.  
