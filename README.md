@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
   <img src="static/logo01-removebg-preview.png" alt="Billionaire Mind Strategies Logo" width="50">
 </p>
 
