@@ -1,4 +1,4 @@
-## ![Billionaire Mind Strategies Logo](sandbox:/mnt/data/logo01-removebg-preview.png)
+## ![Billionaire Mind Strategies Logo](static/logo01-removebg-preview.png)
 
 # VorBot-NinjaTrader
 **Advanced Automated Trading & Trade Management for NinjaTrader 8**  
