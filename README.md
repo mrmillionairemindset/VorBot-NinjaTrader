@@ -3,9 +3,6 @@
 
 
 # VorBot-NinjaTrader
-**Advanced Automated Trading & Trade Management for NinjaTrader 8**  
-🚀 Developed by **Billionaire Mind Strategies, LLC**
-
 ---
 
 ## 📌 About Billionaire Mind Strategies, LLC  
