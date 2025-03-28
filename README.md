@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="static/logo01-removebg-preview.png" alt="Billionaire Mind Strategies Logo" width="50">
+  <img src="static/logo01-removebg-preview.png" alt="Billionaire Mind Strategies Logo" width="50" text="About Billionaire Mind Strategies, LLC">
 </p>
 
 # VorBot-NinjaTrader
