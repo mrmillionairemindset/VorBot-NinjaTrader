@@ -1,6 +1,6 @@
-<p align="left">
-  <img src="static/logo01-removebg-preview.png" alt="Billionaire Mind Strategies Logo" width="50" text="About Billionaire Mind Strategies, LLC">
-</p>
+| <img src="static/logo01-removebg-preview.png" alt="Billionaire Mind Strategies Logo" width="100"> | # VorBot-NinjaTrader <br> **Advanced Automated Trading & Trade Management for NinjaTrader 8** <br> 🚀 Developed by **Billionaire Mind Strategies, LLC** |
+|:---:|---|
+
 
 # VorBot-NinjaTrader
 **Advanced Automated Trading & Trade Management for NinjaTrader 8**  
