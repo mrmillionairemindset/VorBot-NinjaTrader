@@ -44,7 +44,7 @@ This repository includes both **manual trade management** and **fully automated 
 
 ### **1️⃣ Clone the Repository**
 ```sh
-git clone https://github.com/yourusername/VorBot-NinjaTrader.git
+git clone https://github.com/mrmillionairemindset/VorBot-NinjaTrader.git
 ```
 
 ### **2️⃣ Import to NinjaTrader**
